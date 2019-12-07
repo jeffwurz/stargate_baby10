@@ -25,13 +25,19 @@
   ```
   For Frontside mounting: LEDs, Potentiometers, THT Switches
 
-  For Backside mounting: Resistors, Capacitors, IC sockets -> ICs, 1N4148 Diodes, 9v Battery wires(+ is square pad, - is circular pad)
+  For Backside mounting: Resistors, Capacitors, IC sockets -> ICs,
+    1N4148 Diodes, 9v Battery wires(+ is square pad, - is circular pad)
   ```
 ##Operation:
   ```
-  There are 2 switches that correspond to each step, they are located to the left and right of the LED for that step.
+  There are 2 switches that correspond to each step,
+   they are located to the left and right of the LED
+   for that step.
   Each one is a different function for that step.
-    The left switch is to skip the step, while the right switch is to reset at that step*
+    The left switch is to skip the step, while the
+     right switch is to reset at that step*
 
-  There is also a skip enable switch located above the 3rd step's potentiometer. To enable position the switch towards the outside edge of the board.
+  There is also a skip enable switch located above the
+   3rd step's potentiometer. To enable position the
+   switch towards the outside edge of the board.
   ```
