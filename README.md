@@ -11,7 +11,7 @@
   1: SMD power switch - SW_POW1
   1: 8ohm speaker - LS1
   12: 470k potentiometers
-  20: 1N4148 diodes
+  20: 1N4148/1N4531 diodes
   21: THT switches
   10: 3mm LED
   12: 1k bias/555 resistors THT
@@ -26,7 +26,7 @@
   For Frontside mounting: LEDs, Potentiometers, THT Switches
 
   For Backside mounting: Resistors, Capacitors, IC sockets -> ICs,
-    1N4148 Diodes, 9v Battery wires(+ is square pad, - is circular pad)
+    Diodes, 9v Battery wires(+ is square pad, - is circular pad)
   ```
 ##Operation:
   ```
