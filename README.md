@@ -4,7 +4,7 @@
 
 ##BOM:
   ```
-  3: LM555
+  3: NE555P
   3: 8pin IC socket
   1: CD4017BE
   1: 16 pin IC socket
