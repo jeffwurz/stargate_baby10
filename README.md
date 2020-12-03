@@ -9,7 +9,7 @@
   1: CD4017BE
   1: 16 pin IC socket
   1: SMD power switch - SW_POW1
-  1: 8ohm speaker - LS1
+  1: 8ohm speaker - LS1 - (square hole is +)
   12: 470k potentiometers
   20: 1N4148/1N4531 diodes
   21: THT switches
@@ -19,7 +19,7 @@
   1: 10 uF Polarized
   1: 0.01 uF
   1: 0.1 uF
-  1: 9v battery holder with leads
+  1: 9v battery holder with leads (BT1 - square hole is +)
   ```
 ##Assembly:
   ```
